@@ -1,6 +1,6 @@
 ---
 title: "Stat 437 Cancer Classification"
-author: "Audrey Kimball (11659795)"
+author: "Audrey Kimball"
 header-includes:
 - \usepackage{bbm}
 - \usepackage{amssymb}
